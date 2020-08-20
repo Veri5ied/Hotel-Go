@@ -3,7 +3,7 @@ import React from "react";
 const Search = () => {
   return (
     <div>
-      <form className="form-inline mt-2 float-center row justify-content-center">
+      <form className="form-inline mt-2 float-center justify-content-center">
         <div className="form-group mx-sm-3 mb-2">
           <input
             type="search"

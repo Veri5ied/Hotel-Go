@@ -8,7 +8,7 @@ import Hotkek from "./component/Hotkek";
 class App extends Component {
   render() {
     return (
-        <div className="container">
+        <div className="main-body">
           <Navbar />
           <Header />
           <Search />

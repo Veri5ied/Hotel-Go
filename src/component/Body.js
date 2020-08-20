@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 class Body extends Component {
     render() {
         return (
-            <div className="container">
+            <div className="container-fluid">
                 <h5 className="text-center text-dark">TOP CITIES</h5>
           <div className="card-columns">
             <div className="card border-primary text-center">

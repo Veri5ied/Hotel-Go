@@ -3,7 +3,7 @@ import Dolphin from '../dolphins.jpg'
 
 const Hotkek = () => {
     return (
-      <div className="container">
+      <div className="container-fluid">
         <div
           id="carouselExampleCaptions"
           className="carousel slide"
